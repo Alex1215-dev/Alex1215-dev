@@ -1,5 +1,4 @@
 ## Hi there 👋, I'm a skilled full stack engineer with 10+ years of professional experience.
-![istockphoto-1470350413-612x612](https://github.com/marko1215/marko1215/assets/171779189/5a1ef858-bc64-4452-b100-4a26c3201652)
 
 
 # 💻 Tech Stack:
