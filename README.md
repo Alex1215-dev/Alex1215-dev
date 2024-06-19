@@ -1,4 +1,4 @@
-## Hi there 👋, I'm a skilled full stack engineer with 10+ years of professional experience.
+## Hi there 👋, I'm a skilled senior web developer with 10+ years of professional experience.
 
 
 # 💻 Tech Stack:
